@@ -662,7 +662,7 @@ body {
     align-items: center;
     gap: 8px;
 }
-.modal-checkbox-box {
+.modal-checkbox-label .modal-checkbox-box {
     display: inline-flex;
     align-items: center;
     justify-content: center;

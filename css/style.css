@@ -664,9 +664,6 @@ body {
 }
 .modal-checkbox-box {
     display: inline-flex;
-}
-.modal-checkbox-box {
-    display: inline-flex;
     align-items: center;
     justify-content: center;
     flex-shrink: 0;

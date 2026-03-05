@@ -658,7 +658,7 @@ body {
     letter-spacing: 0.04em;
     color: rgb(142, 143, 153);
     cursor: pointer;
-    display: flex;
+    /*display: flex;*/
     align-items: center;
     gap: 8px;
 }
